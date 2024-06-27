@@ -1,0 +1,2 @@
+# aikidoTechniquesTest
+合気道の審査技をまとめたWebサイト
