@@ -24,6 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const attackContent = document.createElement('ul');
             attackContent.className = 'ml-4 p-3 bg-white rounded-b-lg';
+            attackContent.style.listStyleType = 'none';
 
             attack.techniques.forEach((technique, techniqueIndex) => {
                 const techniqueItem = document.createElement('li');
